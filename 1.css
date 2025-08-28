@@ -1,0 +1,72 @@
+  * {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        .header {
+            background-color: salmon;
+            color: aliceblue;
+            border: 3px solid black;
+            height: 60px;
+            margin: 10px;
+        }
+
+        .header h1 {
+            text-align: center;
+            line-height: 60px;
+        }
+
+        .u-100 {
+            width: 100%;
+        }
+
+        .flex {
+            display: flex;
+        }
+
+        .u-20 {
+            background-color: sandybrown;
+            color: beige;
+            border: 3px solid black;
+            width: 20%;
+            height: 500px;
+            margin: 10px;
+        }
+
+        .u-20 h1 {
+            text-align: center;
+            line-height: 500px;
+        }
+
+        .ur-40,
+        .uk-40 {
+            width: 40%;
+            height: 500px;
+        }
+
+        .u1-20,
+        .u2-20,
+        .u3-20,
+        .u4-20 {
+            background-color: pink;
+            color: black;
+            border: 3px solid black;
+            width: 96%;
+            height: 243px;
+            margin: 10px;
+        }
+
+        .u1-20,
+        .u2-20,
+        .u3-20,
+        .u4-20 h1 {
+            text-align: center;
+            line-height: 250px;
+        }
+        .u-1140{
+            width: 99%;
+            border: 5px solid black;
+            margin-left: 3px;
+            margin-top: 10px;
+
+        }
