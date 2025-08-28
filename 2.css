@@ -1,0 +1,62 @@
+ * {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        .header,
+        .footer {
+            background-color: brown;
+            color: seashell;
+            border: 3px solid black;
+            height: 60px;
+            margin: 10px;
+        }
+
+        .header,.footer h2 {
+            text-align: center;
+            text-transform: capitalize;
+            line-height: 60px;
+        }
+
+        .u-100 {
+            width: 100%;
+        }
+
+        .flex {
+            display: flex;
+        }
+
+        .u-80,
+        .u1-80 {
+
+            background-color: plum;
+            color: black;
+            border: 3px solid black;
+            margin: 10px;
+        }
+
+        .u-80,
+        .u1-80 h1 {
+            text-align: center;
+            text-transform: capitalize;
+            line-height: 250px;
+        }
+
+        .u-30 {
+            background-color: orange;
+            color: darkcyan;
+            width: 30%;
+            height: 515px;
+            margin: 10px;
+            border: 3px solid black;
+        }
+
+        .u-30 h1 {
+            text-align: center;
+            line-height: 515px;
+        }
+
+        .ur-80 {
+            width: 70%;
+            height: 250px;
+        }
